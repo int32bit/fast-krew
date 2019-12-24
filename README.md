@@ -11,9 +11,9 @@ Fast Krew is just a krew bash wapper that uses [axel](https://github.com/axel-do
 
 ## Installation
 
-1. Make sure that both axel and krew are installed.
+1. Make sure that both `axel` and `krew` are installed.
 2. Run `kubectl krew  update` before install your plugin.
-3. Run this command in your terminal to download plugin useing fast krew:
+3. Run this command in your terminal to download plugin using fast krew:
 
 ```bash
 ./fast_krew.sh <plugin_name>
